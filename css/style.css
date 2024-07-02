@@ -16,6 +16,7 @@ header {
 ul {
     display: flex;
     column-gap: 50px;
+    align-items: center;
     /* flex-wrap: wrap; */
 }
 
@@ -73,8 +74,8 @@ h2 {
     /* width: 100%; */
     display: flex;
     justify-content: space-between;
+    align-items: center;
     flex-wrap: wrap;
-    /* align-content: space-between */
     row-gap: 51px;
 }
 
@@ -136,10 +137,12 @@ h5 {
     width: 114px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .payment_section {
     width: 421px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
